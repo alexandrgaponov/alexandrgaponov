@@ -10,7 +10,7 @@
 ###### Навыки:
 Python, scikit-learn, SQL, pandas, Plotly, seaborn, Optuna, Julia, C, Jupyter
 
-##### Контакты:
+###### Контакты:
 - Matrix: @gaponkagapon:matrix.org
 - Telegram: https://t.me/GaponkaGapon
 - Email (если нет возможности воспользоваться мессенджерами): gaponkagapon@gmail.com
