@@ -8,7 +8,7 @@
 - Поверхностный анализ данных с помощью Plotly и seaborn.
 
 ###### Навыки:
-Python, scikit-learn, SQL, pandas, Plotly, seaborn, Optuna, Julia, C, Jupyter
+Python, scikit-learn, SQL, pandas, Plotly, seaborn, Optuna, C, Jupyter
 
 ###### Контакты:
 - Matrix: @gaponkagapon:matrix.org
